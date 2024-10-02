@@ -117,7 +117,7 @@ namespace _01_MainSubjects
 
             Console.WriteLine("Hesap: "+totalPrice);
             Console.Read();
-
+            
             #endregion
         }
     }
